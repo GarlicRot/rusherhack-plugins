@@ -1390,10 +1390,10 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
 ---
 
 - ### [RusherChat](https://github.com/GarlicRot/RusherChat) <br>
- [![Latest Release Date](https://img.shields.io/github/release-date/GarlicRot/RusherChat?label=Latest%20Release&color=green)](https://github.com/GarlicRot/RusherChat/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/GarlicRot/RusherChat/total)](https://github.com/GarlicRot/RusherChat/releases/download/v1.0.8/RusherChat-1.0.8.jar)<br>
+ [![Latest Release Date](https://img.shields.io/github/release-date/GarlicRot/RusherChat?label=Latest%20Release&color=green)](https://github.com/GarlicRot/RusherChat/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/GarlicRot/RusherChat/total)](https://github.com/GarlicRot/RusherChat/releases/download/v1.0.9/RusherChat-1.0.9.jar)<br>
  ![MC Version](https://img.shields.io/static/v1?label=MC+Version&message=1.20.1%2C+1.20.2%2C+1.20.3%2C+1.20.4%2C+1.20.5%2C+1.20.6%2C+1.21%2C+1.21.1%2C+1.21.2%2C+1.21.3%2C+1.21.4%2C+1.21.11&color=blueviolet)<br>
  **Creator**: <img src="https://github.com/GarlicRot.png?size=20" width="20" height="20"> [GarlicRot](https://github.com/GarlicRot)<br>
- WebSocket-powered chat for RusherHack
+ Cross-version chat for RusherHack
 
 ---
 
