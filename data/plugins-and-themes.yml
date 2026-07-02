@@ -1825,7 +1825,7 @@ plugins:
     latest_release_tag: v1.0.8
     screenshots: []
     is_core: false
-    mc_versions: '1.20.1, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4'
+    mc_versions: '1.20.1, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.11'
     jar_url: https://github.com/GarlicRot/RusherChat/releases/download/v1.0.8/RusherChat-1.0.8.jar
     added_at: '2026-01-24'
     updated_at: '2026-01-24'
