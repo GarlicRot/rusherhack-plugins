@@ -108,7 +108,7 @@ Explore these resources to learn more about developing and using RusherHack plug
   <div>
     <img alt="stars" src="https://img.shields.io/github/stars/FBanna/Rusherhack-Vanilla-Efly?style=flat">
     &nbsp;<img alt="downloads" src="https://img.shields.io/github/downloads/FBanna/Rusherhack-Vanilla-Efly/total?style=flat">
-    &nbsp;<img alt="updated" src="https://img.shields.io/date/1764618838?label=updated&style=flat">
+    &nbsp;<img alt="updated" src="https://img.shields.io/date/1784470922?label=updated&style=flat">
   </div>
 </td></tr>
 <tr><td align="left" valign="top" width="50%">
@@ -140,13 +140,13 @@ Explore these resources to learn more about developing and using RusherHack plug
     &nbsp;<img alt="updated" src="https://img.shields.io/date/1780465854?label=updated&style=flat">
   </div>
 </td><td align="left" valign="top" width="50%">
-  <a href="https://github.com/John200410/rusherhack-instance-info"><img src="https://avatars.githubusercontent.com/u/43681932?s=400&u=9a95dd1320f23595e6738db6406a46e55cc86a8e&v=4" alt="RusherHack Instance Info" width="100" height="100" style="border-radius:12px;"></a>
-  <div><strong><a href="https://github.com/John200410/rusherhack-instance-info">RusherHack Instance Info</a></strong>&nbsp;<code>plugin</code></div>
-  <div style="margin:4px 0 6px 0;">Provides detailed information about the current instance.</div>
+  <a href="https://github.com/KybesRusherhackPlugins/mace-kill"><img src="https://avatars.githubusercontent.com/u/230233183?s=400&v=4" alt="Mace Kill" width="100" height="100" style="border-radius:12px;"></a>
+  <div><strong><a href="https://github.com/KybesRusherhackPlugins/mace-kill">Mace Kill</a></strong>&nbsp;<code>plugin</code></div>
+  <div style="margin:4px 0 6px 0;">One shot pretty much all mobs with a mace.</div>
   <div>
-    <img alt="stars" src="https://img.shields.io/github/stars/John200410/rusherhack-instance-info?style=flat">
-    &nbsp;<img alt="downloads" src="https://img.shields.io/github/downloads/John200410/rusherhack-instance-info/total?style=flat">
-    &nbsp;<img alt="updated" src="https://img.shields.io/date/1747863422?label=updated&style=flat">
+    <img alt="stars" src="https://img.shields.io/github/stars/KybesRusherhackPlugins/mace-kill?style=flat">
+    &nbsp;<img alt="downloads" src="https://img.shields.io/github/downloads/KybesRusherhackPlugins/mace-kill/total?style=flat">
+    &nbsp;<img alt="updated" src="https://img.shields.io/date/1742242151?label=updated&style=flat">
   </div>
 </td></tr>
 </table>
