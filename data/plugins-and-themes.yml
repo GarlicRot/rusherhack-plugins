@@ -66,7 +66,7 @@ plugins:
         alt: Hud Display w/2b2t Queue
         width: 550
     is_core: false
-    mc_versions: '1.20.1, 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4'
+    mc_versions: '1.20.1, 1.20.2, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.11'
     jar_url: https://github.com/rfresh2/2b2t.vc-rusherhack/releases/tag/1.13
     added_at: '2023-10-22'
     updated_at: '2025-01-17'
