@@ -145,7 +145,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
 
 - ### [2b2t.vc Rusherhack](https://github.com/rfresh2/2b2t.vc-rusherhack) <br>
  [![Latest Release Date](https://img.shields.io/github/release-date/rfresh2/2b2t.vc-rusherhack?label=Latest%20Release&color=green)](https://github.com/rfresh2/2b2t.vc-rusherhack/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/rfresh2/2b2t.vc-rusherhack/total)](https://github.com/rfresh2/2b2t.vc-rusherhack/releases/tag/1.13)<br>
- ![MC Version](https://img.shields.io/static/v1?label=MC+Version&message=1.20.1%2C+1.20.2%2C+1.20.4%2C+1.20.6%2C+1.21%2C+1.21.1%2C+1.21.2%2C+1.21.3%2C+1.21.4&color=blueviolet)<br>
+ ![MC Version](https://img.shields.io/static/v1?label=MC+Version&message=1.20.1%2C+1.20.2%2C+1.20.4%2C+1.20.6%2C+1.21%2C+1.21.1%2C+1.21.2%2C+1.21.3%2C+1.21.4%2C+1.21.11&color=blueviolet)<br>
  **Creator**: <img src="https://github.com/rfresh2.png?size=20" width="20" height="20"> [rfresh2](https://github.com/rfresh2)<br>
  2b2t data and statistics API commands and HUD.
 
@@ -388,7 +388,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
  [![Latest Release Date](https://img.shields.io/github/release-date/KybesRusherhackPlugins/executer?label=Latest%20Release&color=green)](https://github.com/KybesRusherhackPlugins/executer/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/KybesRusherhackPlugins/executer/total)](https://github.com/KybesRusherhackPlugins/executer/releases/download/1.20.4-5.0.0/kybes-executer-5.0.0.jar)<br>
  ![MC Version](https://img.shields.io/static/v1?label=MC+Version&message=1.20.4&color=blueviolet)<br>
  **Creator**: <img src="https://github.com/kybe236.png?size=20" width="20" height="20"> [kybe236](https://github.com/kybe236)<br>
- Executes commands and resolves `<player>` to every player online.
+ Executes commands and resolves `&lt;player&gt;` to every player online.
 
 ---
 
@@ -1091,7 +1091,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
  <details>
  <summary>Show Screenshots</summary>
  <p align="center">
- <img src="./Assets/rusherhack-kybes-utils/chat-example.png" alt="Example chat messages from kybe's utils" width="550">
+ <img src="./Assets/rusherhack-kybes-utils/chat-example.png" alt="Example chat messages from kybe&#x27;s utils" width="550">
  </p>
  </details>
 
@@ -1195,7 +1195,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
  [![Latest Release Date](https://img.shields.io/github/release-date/IceTank/RusherHack-AutoIgnorehard?label=Latest%20Release&color=green)](https://github.com/IceTank/RusherHack-AutoIgnorehard/releases) [![GitHub Downloads](https://img.shields.io/github/downloads/IceTank/RusherHack-AutoIgnorehard/total)](https://github.com/IceTank/RusherHack-AutoIgnorehard/releases/download/v0.0.3/AutoIgnorehard-0.0.3.jar)<br>
  ![MC Version](https://img.shields.io/static/v1?label=MC+Version&message=1.21.4&color=blueviolet)<br>
  **Creator**: <img src="https://github.com/IceTank.png?size=20" width="20" height="20"> [IceTank](https://github.com/IceTank)<br>
- Automatically runs the `/ignorehard <playername>` command on any player that sends a Discord invite in chat.
+ Automatically runs the `/ignorehard &lt;playername&gt;` command on any player that sends a Discord invite in chat.
 
 ---
 
@@ -1430,7 +1430,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
  <summary>Show Screenshots</summary>
  <p align="center">
  <img src="./Assets/MoreHuds/example.png" alt="Some hud elements added by the plugin" width="429">
- <img src="./Assets/MoreHuds/settings.png" alt="TargetHUD's settings" width="171">
+ <img src="./Assets/MoreHuds/settings.png" alt="TargetHUD&#x27;s settings" width="171">
  </p>
  </details>
 
@@ -1541,7 +1541,7 @@ Core plugins provide deeper integration with RusherHack by modifying Minecraftâ€
  <details>
  <summary>Show Screenshots</summary>
  <p align="center">
- <img src="./Assets/Stricty/settings.png" alt="Stricty's settings" width="168">
+ <img src="./Assets/Stricty/settings.png" alt="Stricty&#x27;s settings" width="168">
  </p>
  </details>
 
