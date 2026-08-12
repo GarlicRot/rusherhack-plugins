@@ -429,15 +429,15 @@ plugins:
       name: kybe236
       url: https://github.com/kybe236
       avatar: https://github.com/kybe236.png?size=20
-    latest_release_tag: 1.21.4
+    latest_release_tag: 1.21.11
     screenshots:
       - url: https://img.youtube.com/vi/seP5OqcnFT4/0.jpg
         alt: Mace Kill Demo
     is_core: false
-    mc_versions: '1.21.4'
-    jar_url: https://github.com/KybesRusherhackPlugins/mace-kill/releases/download/1.21.4/mace-kill-1.0.0.jar
+    mc_versions: '1.21.11'
+    jar_url: https://github.com/KybesRusherhackPlugins/mace-kill/releases/download/1.21.11/mace-kill-1.0.0.jar
     added_at: '2024-07-20'
-    updated_at: '2025-03-17'
+    updated_at: '2026-08-06'
   - name: Weather Changing Plugin
     repo: Lokfid/WeatherChangingPlugin
     description: Allows players to change the weather in-game.
