@@ -2097,6 +2097,20 @@ plugins:
     jar_url: https://github.com/tillay-rh-plugins/rusherhack-pathfinder/releases/download/v1.2.0-7eb361/rusherhack-pathfinder-1.2.0.jar
     added_at: '2026-06-09'
     updated_at: '2026-06-09'
+  - name: Tim
+    repo: Anxious112/TIM-RUSHER-PLUGIN-1.21.4
+    description: RusherHack port of the Tim Meteor addon - trail and stash hunting utilities including the Baromine Baritone auto-miner, dungeon/city/manor/chambers assistants, portal and gateway trackers, and 20+ HUDs.
+    creator:
+      name: Anxious112
+      url: https://github.com/Anxious112
+      avatar: https://github.com/Anxious112.png?size=20
+    latest_release_tag: 'tim'
+    screenshots: []
+    is_core: false
+    mc_versions: '1.21.4'
+    jar_url: https://github.com/Anxious112/TIM-RUSHER-PLUGIN-1.21.4/releases/download/tim/tim-1.0.0.jar
+    added_at: '2026-08-31'
+    updated_at: '2026-08-31'
 themes:
   - name: Nhack Theme
     repo: h1tm4nqq/Nhack-theme
