@@ -146,7 +146,7 @@ Explore these resources to learn more about developing and using RusherHack plug
   <div>
     <img alt="stars" src="https://img.shields.io/github/stars/KybesRusherhackPlugins/mace-kill?style=flat">
     &nbsp;<img alt="downloads" src="https://img.shields.io/github/downloads/KybesRusherhackPlugins/mace-kill/total?style=flat">
-    &nbsp;<img alt="updated" src="https://img.shields.io/date/1742242151?label=updated&style=flat">
+    &nbsp;<img alt="updated" src="https://img.shields.io/date/1786429577?label=updated&style=flat">
   </div>
 </td></tr>
 </table>
