@@ -213,7 +213,7 @@
     {
       "name": "EFlyAutoJump",
       "repo": "tr330ne/efly-autojump",
-      "description": "Enhances Baritone elytra flight with smart auto-jump start/stop and visual display, compatible with Xaero Plus \u00abBaritone Elytra Here\u00bb, also supports manual Baritone commands input in addition to automation.",
+      "description": "Enhances Baritone elytra flight with smart auto-jump start/stop and visual display, compatible with Xaero Plus «Baritone Elytra Here», also supports manual Baritone commands input in addition to automation.",
       "creator": {
         "name": "tr330ne",
         "url": "https://github.com/tr330ne",
@@ -2087,7 +2087,7 @@
     {
       "name": "icaemas-tweaks",
       "repo": "icaema/icaemas-tweaks",
-      "description": "Adds keybinds for quick equipment and inventory management. \u2022 Toggle between Elytra and chestplate, with auto-deploy when falling \u2022 Swap hotbar slots with the row above in the inventory",
+      "description": "Adds keybinds for quick equipment and inventory management. • Toggle between Elytra and chestplate, with auto-deploy when falling • Swap hotbar slots with the row above in the inventory",
       "creator": {
         "name": "icaema",
         "url": "https://github.com/icaema",
@@ -2670,6 +2670,23 @@
       "jar_url": "https://github.com/tillay-rh-plugins/rusherhack-pathfinder/releases/download/v1.2.0-7eb361/rusherhack-pathfinder-1.2.0.jar",
       "added_at": "2026-06-09",
       "updated_at": "2026-06-09"
+    },
+    {
+      "name": "Tim",
+      "repo": "Anxious112/TIM-RUSHER-PLUGIN-1.21.4",
+      "description": "RusherHack port of the Tim Meteor addon - trail and stash hunting utilities including the Baromine Baritone auto-miner, dungeon/city/manor/chambers assistants, portal and gateway trackers, and 20+ HUDs.",
+      "creator": {
+        "name": "Anxious112",
+        "url": "https://github.com/Anxious112",
+        "avatar": "https://github.com/Anxious112.png?size=20"
+      },
+      "latest_release_tag": "tim",
+      "screenshots": [],
+      "is_core": false,
+      "mc_versions": "1.21.4",
+      "jar_url": "https://github.com/Anxious112/TIM-RUSHER-PLUGIN-1.21.4/releases/download/tim/tim-1.0.0.jar",
+      "added_at": "2026-08-31",
+      "updated_at": "2026-08-31"
     }
   ],
   "themes": [
